@@ -19,6 +19,10 @@ La idea principal de este proyecto es la creación de un sistema para la gestió
 -Lucía Valencia
 
 #Modulos por Desarrollador
-
+-Condificación
+-Interfaz
 
 #Conclusiones
+GitHub es una aplicación que cuenta con una interfaz muy amigable y que tiene un uso fácil tanto para un usuario experto como para un nuevo usuario. 
+Por otro lado, el uso del repositorio con ayuda del GIT por medio de la CMD puede ser algo complicado y no tan fácil de entender al momento, lo que puede
+dificultar las cosas para nuevos usuarios.
