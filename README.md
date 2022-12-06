@@ -1,7 +1,7 @@
 # Restaurante-Taco-Fish
 Aplicación para la gestión de pedidos en un restaurante.
 
-#-/////-Descripcion-/////-
+#Descripción
 La idea principal de este proyecto es la creación de un sistema para la gestión de pedidos en un restaurante de mariscos. Esta aplicación puede ser ejecutada desde un dispositivo móvil (Instalación mediante la playstore/appstore) o mediante una página web. Se tendrán en cuenta 2 tipos de cuentas (Administrador y Cliente) con distintos privilegios. El administrador será manejado por el dueño del restaurante y este podrá añadir, ver, modificar o eliminar algún platillo al menú de la aplicación además de la gestión de facturas y métodos de pago. Por otro lado, el usuario cliente tendrá que iniciar sesión (en caso de tener una cuenta vigente) o registrarse para lograr acceder al menú de platillos y poder realizar un pedido.
 
 #Manual De Usuario
